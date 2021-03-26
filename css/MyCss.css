@@ -3,4 +3,13 @@
 body { 
 	background-color:#FFD0B6;
 	color:#E07C7C;
+	font-family:'poppins'; 
+}
+
+.color-background{
+	background-color:#FFECE1;
+} 
+
+.my-navbar{ 
+	background-color:#E07C7C;  
 }
